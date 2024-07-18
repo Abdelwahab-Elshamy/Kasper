@@ -627,7 +627,7 @@ header nav .form i {
 }
 .pricing .container .plans {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(211px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(167px, 1fr));
   gap: 30px;
 }
 .pricing .container .plans .plan {
